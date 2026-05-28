@@ -1,3 +1,7 @@
 Okno BLA BLA
 BLA BLA
+<<<<<<< Updated upstream
 AAAAAAAAAAAAAAAAAAA!
+=======
+COŚ TAM COŚ TAM
+>>>>>>> Stashed changes
